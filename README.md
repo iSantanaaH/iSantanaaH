@@ -1,14 +1,14 @@
 ### Olá! Eu sou Micael Santana
 
-<div style="display: flex, flex: 1 1 auto, width:100%">
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="" align="center" src="https://github-readme-stats.vercel.app/api?username=iSantanaaH&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iSantanaaH&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSantanaaH&layout=compact&show_icons=true&theme=transparent" />  
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSantanaaH&layout=compact&show_icons=true&theme=transparent" />  
   </a>
 </div><br>
-  
+
 - 🌱 Atualmente estudando Javascript e Typescript.
 - 🔭 Realizando projetos pessoais e criando portfólio.
 - 📫 Contate-me no email: micaelsantana.dev@gmail.com
