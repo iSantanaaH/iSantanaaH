@@ -2,7 +2,7 @@
 
 <div style="display: flex, flex: 1 1 auto, width:100%">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="width:40%" align="center" src="https://github-readme-stats.vercel.app/api?username=iSantanaaH&show_icons=true&theme=transparent" />
+  <img style="" align="center" src="https://github-readme-stats.vercel.app/api?username=iSantanaaH&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img style="" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSantanaaH&layout=compact&show_icons=true&theme=transparent" />  
