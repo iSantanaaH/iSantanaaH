@@ -11,7 +11,7 @@
 
 - 🌱 Atualmente estudando Javascript e Typescript.
 - 🔭 Realizando projetos pessoais e criando portfólio.
-- 📫 Contate-me no email: micaelsantana.dev@gmail.com
+- 📫 Contate-me no email: micaeldev.santana@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Micael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
