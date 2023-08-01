@@ -9,9 +9,10 @@
   </a>
 </div><br>
 
-- 🌱 Atualmente estudando Javascript, Typescript e React.
-- 🔭 Realizando projetos pessoais e criando portfólio.
-- 
+- 📚 Atualmente estudando Javascript, Typescript e React.
+- 🔭 Realizando projetos pessoais.
+- 💻 Rumo ao Fullstack!.
+- 📱 WhatsApp para contato: (75)99946-8431 ou (69)98107-1154.
 - 📫 Contate-me no email: micaeldev.santana@gmail.com
   
 
