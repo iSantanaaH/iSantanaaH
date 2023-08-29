@@ -9,6 +9,7 @@
   </a>
 </div><br>
 
+- 👨‍🎓 Análise e Desenvolvimento de Sistemas.
 - 📚 Atualmente estudando Javascript, Typescript e React.
 - ⚙️ Realizando projetos pessoais.
 - 💻 Rumo ao Fullstack!.
