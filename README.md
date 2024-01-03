@@ -9,7 +9,7 @@
   </a>
 </div><br>
 
-- 🏗️ Portfólio em construção: https://isantanaah-front-end.vercel.app/
+- 📰 Portfólio: https://isantanaah-front-end.vercel.app/
 - 👨‍🎓 Análise e Desenvolvimento de Sistemas.
 - 🗣️ Inglês intermediário.
 - 📚 Atualmente estudando Javascript, Typescript e React.
