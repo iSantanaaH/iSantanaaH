@@ -2,10 +2,13 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iSantanaaH&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iSantanaaH&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSantanaaH&layout=compact&show_icons=true&theme=transparent" />  
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSantanaaH&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />  
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=iSantanaaH&theme=tokyonight&hide_border=true" />  
   </a>
 </div><br>
 
