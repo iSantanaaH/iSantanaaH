@@ -2,6 +2,7 @@
 
 <div>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=iSantanaaH&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSantanaaH&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=iSantanaaH&theme=tokyonight&hide_border=true" />
 </div>
 
