@@ -10,8 +10,8 @@
 - 👨‍🎓 Análise e Desenvolvimento de Sistemas 06/2024.
 - 🗣️ Inglês intermediário.
 - 📚 Aprendendo sempre.
-- ⚙️ Realizando projetos pessoais.
-- 💻 Rumo ao Fullstack!.
+- ⚙️ Segundo portfólio em contrução.
+- 💻 Rumo ao Fullstack!
 - 📱 WhatsApp para contato: (75)99946-8431 ou (69)98107-1154.
 - 📫 Contate-me no email: micaeldev.santana@gmail.com
   
@@ -30,3 +30,4 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
   <img align="center" alt="Linux" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor">
 </div>
+
