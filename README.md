@@ -7,7 +7,7 @@
 </div>
 
 - 📰 <a rel="noopener noreferrer" target="_blank" href="https://isantanaah-front-end.vercel.app/">Meu Portfólio</a>
-- 👨‍🎓 Análise e Desenvolvimento de Sistemas 06/2024.
+- 🧾 Análise e Desenvolvimento de Sistemas 06/2024.
 - 🗣️ Inglês intermediário.
 - 📚 Aprendendo sempre.
 - ⚙️ Segundo portfólio em contrução.
