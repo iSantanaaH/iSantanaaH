@@ -13,7 +13,7 @@
 - ⚙️ Segundo portfólio em construção.
 - 💻 Desenvolvedor Fullstack
 - 📱 WhatsApp para contato: (75)99946-8431 ou (69)98107-1154.
-- 📫 Contate-me no email: micaeldev.santana@gmail.com
+- 📫 Contate-me no email: micaelsantana.dev@gmail.com
   
 
 <div style="display: inline_block"><br>
