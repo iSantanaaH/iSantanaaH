@@ -10,9 +10,8 @@
 - 🧾 Análise e Desenvolvimento de Sistemas 06/2024.
 - 🗣️ Inglês intermediário.
 - 📚 Aprendendo sempre.
-- ⚙️ Segundo portfólio em construção.
-- 💻 Desenvolvedor Fullstack
-- 📱 WhatsApp para contato: (75)99946-8431 ou (69)98107-1154.
+- 💻 Desenvolvedor Fullstack 4 anos de experiência
+- 📱 WhatsApp para contato: (75)99946-8431
 - 📫 Contate-me no email: micaelsantana.dev@gmail.com
   
 
