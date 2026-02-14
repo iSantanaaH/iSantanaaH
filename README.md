@@ -12,8 +12,12 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://devicon-website.vercel.app/api/dotnetcore/original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://devicon-website.vercel.app/api/spring/original.svg">
   <img align="center" alt="Nestjs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=148&color=currentColor">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
