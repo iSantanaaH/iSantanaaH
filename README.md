@@ -6,7 +6,7 @@
 - 📚 Aprendendo sempre.
 - 💻 Desenvolvedor Fullstack 5 anos de experiência
 - 📱 WhatsApp para contato: (75)99946-8431
--    Portfólio: <a href="https://micaelsantana.netlify.app/">Clique aqui</a>
+-    Portfólio: <a href="https://micaelsantana.netlify.app/" target="_blank" rel="noopener noreferrer">Clique aqui</a>
 - 📫 Contate-me no email: micaelsantana.dev@gmail.com
   
 
