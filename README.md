@@ -7,29 +7,16 @@
 - 💻 Desenvolvedor Fullstack 5 anos de experiência
 - 📱 WhatsApp para contato: (75) 9 9946-8431
 - 📫 Contate-me no email: micaelsantana.dev@gmail.com
-  
 
-### Stacks!
+### Stacks
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="CSharp" height="30" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NET CORE" height="30" width="40" src="https://devicon-website.vercel.app/api/dotnetcore/original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://devicon-website.vercel.app/api/spring/original.svg">
-  <img align="center" alt="Nestjs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg">
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=148&color=currentColor">
-  <img align="center" alt="ExpressJS" height="30" width="40" src="https://devicon-website.vercel.app/api/express/original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://devicon-website.vercel.app/api/mongodb/original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Linux" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor">
-</div>
-
+| Frontend | Backend | Databases | Others |
+|----------|---------|-----------|--------|
+| <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" height="30" width="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40" /> | <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" height="30" width="40" /> | <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" height="30" width="40" /> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" width="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="30" width="40" /> | <img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="30" width="40" /> | <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" height="30" width="40" /> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" /> | <img src="https://devicon-website.vercel.app/api/csharp/original.svg" height="30" width="40" /> | <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" height="30" width="40" /> | <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" height="30" width="40" /> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" /> | <img src="https://devicon-website.vercel.app/api/java/original.svg" height="30" width="40" /> | <img src="https://devicon-website.vercel.app/api/sqlite/original.svg" height="30" width="40" /> | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="30" width="40" /> | <img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg" height="30" width="40"> | <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg?color=%23CA0A21" height="30" width="40" /> | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="30" width="40" /> | <img src="https://devicon-website.vercel.app/api/spring/original.svg" height="30" width="40" />  | | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" width="40" /> | <img src="https://devicon-website.vercel.app/api/nestjs/plain.svg" height="30" width="40" /> | | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" width="40" /> | <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="30" width="40" /> | | |
