@@ -2,10 +2,11 @@
 
 - 📰 <a rel="noopener noreferrer" target="_blank" href="https://micaelsantana.netlify.app">Meu Portfólio</a>
 - 🧾 Análise e Desenvolvimento de Sistemas 06/2024.
-- 🗣️ Inglês intermediário.
+- 🗣️ Inglês intermediário (B2).
 - 📚 Aprendendo sempre.
-- 💻 Desenvolvedor Fullstack 4 anos de experiência
+- 💻 Desenvolvedor Fullstack 5 anos de experiência
 - 📱 WhatsApp para contato: (75)99946-8431
+-    Portfólio: <a href="https://micaelsantana.netlify.app/">Clique aqui</a>
 - 📫 Contate-me no email: micaelsantana.dev@gmail.com
   
 
