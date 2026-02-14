@@ -1,13 +1,15 @@
 ### Olá! Eu sou Micael Santana, Desenvolvedor Fullstack
 
 - 🚀  Portfólio: <a href="https://micaelsantana.netlify.app/" target="_blank" rel="noopener noreferrer">Clique aqui</a>
-- 🧾 Análise e Desenvolvimento de Sistemas 06/2024.
-- 🗣️ Inglês intermediário (B2).
-- 📚 Aprendendo sempre.
+- 🧾 Análise e Desenvolvimento de Sistemas 06/2024
+- 🗣️ Inglês intermediário (B2)
+- 📚 Aprendendo sempre
 - 💻 Desenvolvedor Fullstack 5 anos de experiência
 - 📱 WhatsApp para contato: (75) 9 9946-8431
 - 📫 Contate-me no email: micaelsantana.dev@gmail.com
   
+
+### Stacks!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
