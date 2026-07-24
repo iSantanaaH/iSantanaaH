@@ -1,10 +1,10 @@
-### Olá! Eu sou Micael Santana, Desenvolvedor Fullstack
+### Olá! Eu sou Micael Santana, Desenvolvedor Fullstack Pleno
 
 - 🚀  Portfólio: <a href="https://micaelsantana.netlify.app/" target="_blank" rel="noopener noreferrer">Clique aqui</a>
 - 🧾 Análise e Desenvolvimento de Sistemas 06/2024
 - 🗣️ Inglês intermediário (B2)
 - 📚 Aprendendo sempre
-- 💻 Desenvolvedor Fullstack 5 anos de experiência
+- 💻 Desenvolvedor Fullstack Pleno 5.11 anos de experiência
 - 📱 WhatsApp para contato: (75) 9 9946-8431
 - 📫 Contate-me no email: micaelsantana.dev@gmail.com
 
