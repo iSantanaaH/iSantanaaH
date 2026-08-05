@@ -10,7 +10,7 @@
 
 ---
 
-### 💻 Stacks & Ferramentas
+### 💻 Stacks & Tools
 
 ### 🎨 Frontend
 <p align="left">
@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="40" width="45" alt="Playwright" title="Playwright" />
 </p>
 
-### 🛠️ Outros
+### 🛠️ Others
 <p align="left">
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" height="40" width="45" alt="Git" title="Git" />
   <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" height="40" width="45" alt="Linux" title="Linux" />
