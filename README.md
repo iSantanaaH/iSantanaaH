@@ -75,9 +75,10 @@
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top" align="center">
-      <h4>🧪 Testing & Quality Assurance</h4>
+      <h4>🧪 Testing, Code Coverage & Quality</h4>
       <p align="center">
         <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="40" width="45" alt="JUnit" title="JUnit" hspace="3" /></sub>
+        <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" height="40" width="45" alt="SonarQube" title="SonarQube (Code Quality & Security)" hspace="3" /></sub>
         <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="40" width="45" alt="Jest" title="Jest" hspace="3" /></sub>
         <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="40" width="45" alt="Vitest" title="Vitest" hspace="3" /></sub>
         <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="40" width="45" alt="Playwright" title="Playwright E2E" hspace="3" /></sub>
