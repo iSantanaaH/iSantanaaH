@@ -31,7 +31,7 @@
       <p align="center">
         <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" width="45" alt="Angular" title="Angular" hspace="3" /></sub>
         <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" height="40" width="45" alt="RxJS" title="RxJS" hspace="3" /></sub>
-        <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="45" alt="Tailwind CSS" title="Tailwind CSS" hspace="3" /></sub>
+        <sub><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" width="45" alt="Tailwind CSS" title="Tailwind CSS" hspace="3" /></sub>
         <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" width="45" alt="SCSS/Sass" title="SCSS/Sass" hspace="3" /></sub>
         <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="45" alt="HTML5" title="HTML5" hspace="3" /></sub>
         <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="45" alt="CSS3" title="CSS3" hspace="3" /></sub>
