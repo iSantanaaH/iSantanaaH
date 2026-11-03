@@ -1,4 +1,4 @@
-### Olá! Eu sou Micael Santana, Engenheiro de Software Fullstack 👋
+### Olá! Eu sou Micael Santana, Engenheiro de Software Fullstack Sênior 👋
 
 - 🚀 Portfólio: <a href="https://micaelsantana.netlify.app/" target="_blank" rel="noopener noreferrer">micaelsantana.netlify.app</a>
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (UNOPAR)
