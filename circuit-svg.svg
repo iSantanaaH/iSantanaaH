@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#081430" />
+      <stop offset="100%" stop-color="#040a1c" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="1200" height="280" fill="url(#bg)" rx="16" stroke="#60a5fa" stroke-opacity="0.2" stroke-width="1" />
+
+  <!-- Circuit Paths (Base Lines) -->
+  <path d="M50 70 H320 L370 120 H750 L800 70 H1150" fill="none" stroke="#60a5fa" stroke-opacity="0.2" stroke-width="1.5" />
+  <path d="M50 210 H220 L270 160 H600 L650 210 H1150" fill="none" stroke="#60a5fa" stroke-opacity="0.2" stroke-width="1.5" />
+  <path d="M600 0 V60 L650 110 H900" fill="none" stroke="#60a5fa" stroke-opacity="0.2" stroke-width="1.5" />
+
+  <!-- Animated Pulses -->
+  <path d="M50 70 H320 L370 120 H750 L800 70 H1150" fill="none" stroke="#4fd8ff" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="100 450" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" values="550;0" dur="4s" repeatCount="indefinite" />
+  </path>
+
+  <path d="M50 210 H220 L270 160 H600 L650 210 H1150" fill="none" stroke="#4fd8ff" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="100 450" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" values="550;0" dur="5s" begin="1.5s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Glowing Nodes / Junctions -->
+  <g filter="url(#glow)">
+    <circle cx="320" cy="70" r="7" fill="#4fd8ff" opacity="0.25" />
+    <circle cx="320" cy="70" r="3" fill="#4fd8ff">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" />
+    </circle>
+
+    <circle cx="370" cy="120" r="7" fill="#4fd8ff" opacity="0.25" />
+    <circle cx="370" cy="120" r="3" fill="#4fd8ff">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+
+    <circle cx="750" cy="120" r="7" fill="#4fd8ff" opacity="0.25" />
+    <circle cx="750" cy="120" r="3" fill="#4fd8ff">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="0.8s" repeatCount="indefinite" />
+    </circle>
+
+    <circle cx="220" cy="210" r="7" fill="#4fd8ff" opacity="0.25" />
+    <circle cx="220" cy="210" r="3" fill="#4fd8ff">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite" />
+    </circle>
+
+    <circle cx="600" cy="160" r="7" fill="#4fd8ff" opacity="0.25" />
+    <circle cx="600" cy="160" r="3" fill="#4fd8ff">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" begin="1.2s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
