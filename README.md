@@ -2,7 +2,7 @@
 
 - 🚀 Portfólio: <a href="https://micaelsantana-dev.vercel.app" target="_blank" rel="noopener noreferrer">micaelsantana-dev.vercel.app</a>
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (UNOPAR)
-- 💻 Software Engineer Pleno (~6 anos de experiência em sistemas distribuídos & web)
+- 💻 Software Engineer Sênio (~6 anos de experiência em sistemas distribuídos & web)
 - 🗣️ Inglês intermediário (B2)
 - 📱&nbsp; WhatsApp: <a href="https://wa.me/5575999468431" target="_blank">(75) 9 9946-8431</a>
 - 📫 E-mail: <a href="mailto:micaelsantana.dev@gmail.com">micaelsantana.dev@gmail.com</a>
